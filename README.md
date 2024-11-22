@@ -22,9 +22,7 @@ Cada resumo é cuidadosamente elaborado para capturar os pontos-chave, técnicas
 
 ## 📚 Livros Disponíveis
 Adicione aqui uma lista dos livros cujos resumos estão disponíveis neste repositório, por exemplo:
-- *Clean Code* - Robert C. Martin  
-- *The Pragmatic Programmer* - Andrew Hunt e David Thomas  
-- *Introduction to Algorithms* - Thomas H. Cormen  
+- *Algoritmos para leigos* - Jonh Paul Muller e Luca Massaron 
 
 ---
 
