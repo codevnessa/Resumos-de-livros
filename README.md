@@ -14,20 +14,6 @@ Cada resumo é cuidadosamente elaborado para capturar os pontos-chave, técnicas
 Adicione aqui uma lista dos livros cujos resumos estão disponíveis neste repositório, por exemplo:
 - *Algoritmos para leigos* - Jonh Paul Muller e Luca Massaron 
 
----
-
-## 🤝 Como Contribuir
-Se você tem um resumo de um livro que não está listado aqui, ou se deseja melhorar um resumo existente, sinta-se à vontade para contribuir! Aqui estão os passos para contribuir:
-
-1. **Fork** este repositório.  
-2. **Clone** o repositório forkado para sua máquina local.  
-3. Adicione ou edite os arquivos de resumo.  
-4. Faça um **commit** das suas mudanças.  
-5. Envie um **pull request** para que possamos revisar e mesclar suas contribuições.  
-
-Por favor, certifique-se de seguir as diretrizes de contribuição e manter os resumos claros e concisos.
-
----
 
 ## 📜 Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo `LICENSE` para obter mais detalhes.
