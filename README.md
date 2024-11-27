@@ -3,16 +3,6 @@
 🎯 **Propósito Educacional e Informativo**  
 Este repositório foi criado com o propósito de fornecer um recurso educacional e informativo para a comunidade de desenvolvedores e entusiastas da tecnologia. O objetivo principal é facilitar o acesso aos principais conceitos, técnicas e insights apresentados em livros populares sobre programação, desenvolvimento de software, ciência da computação e tecnologias relacionadas.
 
----
-
-## 📚 Sumário
-- [Introdução](#introdução)  
-- [Livros Disponíveis](#livros-disponíveis)  
-- [Como Contribuir](#como-contribuir)  
-- [Licença](#licença)  
-
----
-
 ## 🌟 Introdução
 A leitura de livros é uma das melhores maneiras de aprimorar suas habilidades em programação e tecnologia. No entanto, nem sempre é possível ler todos os livros que gostaríamos. Este repositório foi criado para ajudar a comunidade de desenvolvedores a acessar rapidamente os principais pontos de livros populares, sem precisar ler todo o conteúdo.
 
